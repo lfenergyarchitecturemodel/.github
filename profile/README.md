@@ -11,7 +11,7 @@ The repos in this github org contains LF Energy Archimate models.
 # Installation 
 The use the LF Energy Archimate models you need [Archi](https://www.archimatetool.com/). 
 
-## Step-by-step guide
+## Step-by-step guide for Archi
 1. Download and install the archi software. This can be downloaded from the following location https://www.archimatetool.com/. 
 1. Download the following Archi plugin "coArchi – Model Collaboration for Archi" (https://www.archimatetool.com/plugins/#coArchi) to share and version the created models. 
 1. It is necessary to create a Personal Access Token. (https://github.com/archimatetool/archi-modelrepository-plugin/wiki/Refresh-and-Publish)
