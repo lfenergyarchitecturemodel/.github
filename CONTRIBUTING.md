@@ -9,6 +9,14 @@ SPDX-License-Identifier: CC-BY-4.0
 We'd love to accept your patches and contributions to this project. There are just a few small guidelines you need to follow before making a change.
 
 
+## LF Energy Metamodel 
+Please follow the LF Energy Meta model. 
+
+![Metamodel](https://user-images.githubusercontent.com/3628277/162908393-2bf3f2f6-ff0e-4ae5-a7a5-860b99028293.jpg)
+
+The latest version can be found in lfenergyfunctionalarchitecturemodel
+> Views > Metamodel.
+
 ## Filing bugs and change requests
 
 You can file bugs against and change request for the project via github issues. Consult [GitHub Help](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/creating-an-issue) for more information on using github issues.
