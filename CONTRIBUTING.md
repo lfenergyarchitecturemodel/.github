@@ -14,8 +14,7 @@ Please follow the LF Energy Meta model.
 
 ![Metamodel](https://user-images.githubusercontent.com/3628277/162908393-2bf3f2f6-ff0e-4ae5-a7a5-860b99028293.jpg)
 
-The latest version can be found in lfenergyfunctionalarchitecturemodel
-> Views > Metamodel.
+The latest version can be found in lfenergyfunctionalarchitecturemodel -> Views -> Metamodel.
 
 ## Filing bugs and change requests
 
