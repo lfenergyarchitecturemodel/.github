@@ -12,15 +12,15 @@ We'd love to accept your patches and contributions to this project. There are ju
 
 You can file bugs against and change request for the project via github issues. Consult [GitHub Help](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/creating-an-issue) for more information on using github issues.
 
-## LF Energy Metamodel 
-Please follow the LF Energy Meta model. 
+## Modelling Guidelines
+In order to maintain consitency in the model whilst facilitating collaboration and contributions from all parties, a set of modelling guidelines have been created.
+
+### LF Energy Metamodel 
+If you wish to contribute to the model, please follow the LF Energy Meta model. 
 
 ![Metamodel](https://user-images.githubusercontent.com/3628277/162908393-2bf3f2f6-ff0e-4ae5-a7a5-860b99028293.jpg)
 
 The latest version can be found in lfenergyfunctionalarchitecturemodel -> Views -> Metamodel.
-
-## Modelling Guidelines
-In order to maintain consitency in the model whilst facilitating collaboration and contributions from all parties, a set of modelling guidelines have been created.
 
 ### Contribute using a feature branch
 If you wish to contribute to the model, (e.g., Create new diagrams or edits to existing diagrams) please create a new branch from the main model. When your draft is stable, create a pull request to merge your development branch into the master branch. The lfenergy functional architecture team will review the pull request and accept/edit the contribution from the development branch via github.
