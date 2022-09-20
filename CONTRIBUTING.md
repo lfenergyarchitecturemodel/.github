@@ -20,7 +20,7 @@ If you wish to contribute to the model, please follow the LF Energy Meta model.
 
 ![Metamodel](https://user-images.githubusercontent.com/3628277/162908393-2bf3f2f6-ff0e-4ae5-a7a5-860b99028293.jpg)
 
-The latest version can be found in lfenergyfunctionalarchitecturemodel -> Views -> Metamodel.
+The latest version can be found in [lfenergyfunctionalarchitecturemodel -> Views -> Metamodel](https://lfenergyarchitecturemodel.github.io/lfenergyfunctionalarchitecturemodel/?view=EAID_D62F533C_10E4_423a_9996_336A8012D5EE)
 
 ### Contribute using a feature branch
 If you wish to contribute to the model, (e.g., Create new diagrams or edits to existing diagrams) please create a new branch from the main model. When your draft is stable, create a pull request to merge your development branch into the master branch. The lfenergy functional architecture team will review the pull request and accept/edit the contribution from the development branch via github.
@@ -28,7 +28,7 @@ If you wish to contribute to the model, (e.g., Create new diagrams or edits to e
 The lfenergy functional architecture team will review draft branches on a monthly basis and merge them into the master branch.
 
 ### Adding a new lfenergy project (X)
-Please add a sub-folder for each lfenergy project in the 'Views' folder. (See OpenSTEF as an example)
+Please add a sub-folder for each lfenergy project in the 'Views' folder. (See [OpenSTEF](https://lfenergyarchitecturemodel.github.io/lfenergyfunctionalarchitecturemodel/?view=id-77677b343b234fa0bb0196a8272fc554) as an example).
 In this sub-folder, create two diagrams:
 - X Detailed. This diagram describes the behavior (functions and data flows) of each lfenergy project.
 - X Realized. This diagram relates the lfenergy project to the generic reference archietcure by pointout out which generic functions are realized by the lfenergy project.
@@ -37,11 +37,12 @@ Any model object that is specific and exclusively used by a specific LFenergy pr
 
 ### (Re-) using model objects
 When creating diagrams, re-use model objects wherevere possible, to avoid creating duplicate objects for the same concept. Existing  generic model objects are stored in the subfolders of the Application folder:
-1 Generic Application Components
-2 Generic Application Functions
-3 Generic Application Service / Data Exchange Standard
-4 Generic data objects
+1. Generic Application Components
+2. Generic Application Functions
+3. Generic Application Service / Data Exchange Standard
+4. Generic data objects
 
+(https://github.com/lfenergyarchitecturemodel/.github/blob/main/images/ApplicationFolderStructure.png)
 In #2 you will find the functions, and in #4 you will find the data objects that have been created for generic modelling. Please re-use these wherever possible, and only create a new object if the concept has not already been modelled. Every object must have a definition when it is created in order to help users to understand the meaning of a model object.
 
 ## Pull Request Process for maintainers
