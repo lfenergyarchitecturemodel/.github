@@ -9,7 +9,7 @@ SPDX-License-Identifier: CC-BY-4.0
 The repos in this github org contains LF Energy Archimate models. 
 
 # View 
-The model can be viewed [here without the need to install Archi](https://lcrowleyepri.github.io/).
+The model can be viewed [here without the need to install Archi](https://lfenergyarchitecturemodel.github.io/lfenergyfunctionalarchitecturemodel/).
 
 ![image](https://user-images.githubusercontent.com/3628277/186099614-60361aa6-bc11-4ce0-b66e-d65e0737b5cc.png)
 
