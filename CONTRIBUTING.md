@@ -42,7 +42,8 @@ When creating diagrams, re-use model objects wherevere possible, to avoid creati
 3. Generic Application Service / Data Exchange Standard
 4. Generic data objects
 
-(https://github.com/lfenergyarchitecturemodel/.github/blob/main/images/ApplicationFolderStructure.png)
+![Application Folder Structure](/images/ApplicationFolderStructure.png)
+
 In #2 you will find the functions, and in #4 you will find the data objects that have been created for generic modelling. Please re-use these wherever possible, and only create a new object if the concept has not already been modelled. Every object must have a definition when it is created in order to help users to understand the meaning of a model object.
 
 ## Pull Request Process for maintainers
