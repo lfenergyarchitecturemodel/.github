@@ -6,4 +6,4 @@ SPDX-License-Identifier: CC-BY-4.0
 
 # Release strategy
 
-This project uses a manual release strategy on `main` branch.
+This project uses a manual release strategy on `master` branch.
