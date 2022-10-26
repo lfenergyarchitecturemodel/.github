@@ -12,6 +12,9 @@ We'd love to accept your patches and contributions to this project. There are ju
 
 You can file bugs against and change request for the project via github issues. Consult [GitHub Help](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/creating-an-issue) for more information on using github issues.
 
+## Roadmap
+To determine the roadmap, we use [github projects](https://github.com/orgs/lfenergyarchitecturemodel/projects/1/views/1). In the monthly TSC of lfenergyarchitecturemodel, the TSC and maintainers discuss upcoming work, prioritize work, review work and assign work. 
+
 ## Modelling Guidelines
 In order to maintain consitency in the model whilst facilitating collaboration and contributions from all parties, a set of modelling guidelines have been created.
 
