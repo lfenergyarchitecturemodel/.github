@@ -21,7 +21,7 @@ This project manages bug and enhancement using the Github issue tracker. The iss
 ## How to report a security vulnerability
 
 If you think you've found a potential vulnerability in this project, please
-email XXX to responsibly disclose it.
+email archimate-wg@lists.lfenergy.org to responsibly disclose it.
 
 ## Contributing a fix
 
