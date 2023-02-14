@@ -25,7 +25,7 @@ To contribute to the LF Energy Archimate models you need [Archi](https://www.arc
 1. It is necessary to create a Personal Access Token. (https://github.com/archimatetool/archi-modelrepository-plugin/wiki/Refresh-and-Publish)
 Creating a personal token is described in this link. https://docs.github.com/en/enterprise/2.15/user/articles/creating-a-personal-access-token-for-the-command-line
 1. Open Archi and via the menu option → Collaboration → Import Remote Model to Workplace
-1. Fill in the archimate model l https://github.com/lfenergyarchitecturemodel/xxx.git, your username and the personal access token. 
+1. Fill in the archimate model l https://github.com/lfenergyarchitecturemodel/lfenergyfunctionalarchitecturemodel.git, your username and the personal access token. 
 
 ![screenshot](https://github.com/lfenergyarchitecturemodel/.github/blob/main/images/a29b0ff3-7912-449e-81c9-0482aee3cd24.png)
 
