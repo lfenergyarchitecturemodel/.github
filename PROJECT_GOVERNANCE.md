@@ -27,7 +27,7 @@ The community council consists of the following members:
 
 Jonas van den Bogaard will chair the TSC.
 
-Any community member or Contributor can ask that something be reviewed by the TSC by contacting the TSC at korte.termijn.prognoses@alliander.com.
+Any community member or Contributor can ask that something be reviewed by the TSC by contacting the TSC at  archimate-wg@lists.lfenergy.org.
 
 ## Maintainers
 
