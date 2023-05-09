@@ -4,7 +4,7 @@ SPDX-FileCopyrightText: 2017-2022 Contributors to the lfenergyarchitecturemodel 
 SPDX-License-Identifier: CC-BY-4.0
 -->
 
-# LF Energy Architecture Model (beta)
+# LF Energy Architecture Model
 
 The repos in this github org contains the LF Energy Architecture Model. 
 
