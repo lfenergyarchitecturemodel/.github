@@ -6,8 +6,9 @@ SPDX-License-Identifier: CC-BY-4.0
 # Getting Help
 
 There are a few ways to connect with the lfenergyarchitecturemodel project:
-* _submit an Github issue tab
-* _ask a question in the Github Discussions tab
+* submit an Github issue tab
+* ask a question in the Github Discussions tab
+* send an e-mail to archimate-wg@lists.lfenergy.org
 
 ## How to Ask for Help
 
