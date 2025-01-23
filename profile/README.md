@@ -13,7 +13,7 @@ The LF Energy members EPRI, RTE, Alliander, and Aachen University have joined to
 
 [LF Energy](https://www.lfenergy.org/) is an open-source foundation focused on the power systems sector, hosted within The Linux Foundation. [LF Energy](https://www.lfenergy.org/) provides a neutral, collaborative community to build the shared digital investments that will transform the world’s relationship to energy.
 
-The goal of the LF Energy Architecture Model is to become the place to go for sharing references architectures and project architectures within the LF Energy community. It aims to clarify the ecosystem of LF Energy: wherefore can the LF Energy projects be used, how they interact together, and examples of how they can be adopted in reference architectures. This will provide a clear and deep understanding of how the  LF Energy projects contribute to business functions and help the project adoption, foster synergies between projects, and limit the overlap between projects.
+The goal of the LF Energy Architecture Model is to become the place to go for sharing references architectures (e.g. [NBility Model](https://github.com/NBility-Model)) and project architectures within the LF Energy community. It aims to clarify the ecosystem of LF Energy: wherefore can the LF Energy projects be used, how they interact together, and examples of how they can be adopted in reference architectures. This will provide a clear and deep understanding of how the  LF Energy projects contribute to business functions and help the project adoption, foster synergies between projects, and limit the overlap between projects.
 
 For more information, please watch [the special episode of TFiR: State of Energy](https://www.youtube.com/watch?v=3RO9GsljPUw) where Swapnil Bhartiya sits down with Prince Singh, Solution Architect at Alliander and Benoît Jeanson, Enterprise Architect at RTE, and talk about LF Energy Architecture Model and how it makes it easier for anybody in the world to identify LF Energy Projects that are of interest to them and how they can be integrated into their organization.
 
@@ -42,6 +42,9 @@ Creating a personal token is described in this link. https://docs.github.com/en/
 
 ## License
 This project is licensed under the [Creative Commons Attribution 4.0 International License](https://github.com/lfenergyarchitecturemodel/.github/blob/main/LISENSE).
+
+## Licenses third-party libraries
+This project includes third-party reference models, which are licensed under their own respective Open-Source licenses. SPDX-License-Identifier headers are used to show which license is applicable. The concerning license files can be found in the LICENSES directory.
 
 ## Roadmap  
 For the roadmap, we use github projects. In the monthly TSC of lfenergyarchitecturemodel, the TSC and maintainers discuss upcoming work, prioritize work, review work and assign work. The roadmap can be found [here](https://github.com/orgs/lfenergyarchitecturemodel/projects/1/views/1).
